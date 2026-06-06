@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Lucas Mazini
 
 #### About
-Full Stack Developer | C#, ASP.NET MVC, Node.js, React, Next.js
+I am a Developer Full Stack in Javascript and C#
 
 #### Current stack
   - Main language: `Javascript`, `C#`
